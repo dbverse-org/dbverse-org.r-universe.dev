@@ -1,18 +1,18 @@
 [
   {
     "package": "dbMatrix",
-    "url": "https://github.com/dbverse-org/dbMatrix-r"
+    "url": "https://github.com/dbverse-org/dbmatrix-r"
   },
   {
     "package": "dbSpatial",
-    "url": "https://github.com/dbverse-org/dbSpatial-r"
+    "url": "https://github.com/dbverse-org/dbspatial-r"
   },
   {
     "package": "GiottoDB",
-    "url": "https://github.com/dbverse-org/GiottoDB"
+    "url": "https://github.com/dbverse-org/giottodb"
   },
   {
     "package": "dbProject",
-    "url": "https://github.com/dbverse-org/dbProject-r"
+    "url": "https://github.com/dbverse-org/dbproject-r"
   }
 ]

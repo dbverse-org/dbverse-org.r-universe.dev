@@ -1,5 +1,9 @@
 [
   {
+    "package": "dbProject",
+    "url": "https://github.com/dbverse-org/dbproject-r"
+  },
+  {
     "package": "dbMatrix",
     "url": "https://github.com/dbverse-org/dbmatrix-r"
   },
@@ -8,11 +12,7 @@
     "url": "https://github.com/dbverse-org/dbspatial-r"
   },
   {
-    "package": "GiottoDB",
-    "url": "https://github.com/dbverse-org/giottodb"
-  },
-  {
-    "package": "dbProject",
-    "url": "https://github.com/dbverse-org/dbproject-r"
+    "package": "dbSequence",
+    "url": "https://github.com/dbverse-org/dbsequence-r"
   }
 ]

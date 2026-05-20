@@ -10,5 +10,9 @@
   {
     "package": "dbSpatial",
     "url": "https://github.com/dbverse-org/dbspatial-r"
+  },
+  {
+    "package": "dbSequence",
+    "url": "https://github.com/dbverse-org/dbSequence"
   }
 ]

@@ -14,5 +14,10 @@
   {
     "package": "dbSequence",
     "url": "https://github.com/dbverse-org/dbSequence"
+  },
+  {
+    "package": "dbVisuals",
+    "url": "https://github.com/dbverse-org/dbVisuals",
+    "subdir": "r-package"
   }
 ]
